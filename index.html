@@ -162,6 +162,7 @@ background:#1f57c9;
 <div id="stockPage" class="hidden">
 
 <h2 id="productTitle"></h2>
+<div id="updateDate" style="margin-bottom:10px;font-size:13px;color:#666;"></div>
 
 <table id="stockTable">
 
@@ -308,6 +309,8 @@ document.getElementById("productList").style.display="none";
 document.getElementById("stockPage").style.display="block";
 
 document.getElementById("productTitle").innerText=name;
+  const updateDate=stockData.find(d=>d.product===name)?.update || "";
+document.getElementById("updateDate").innerText="업데이트: "+updateDate;
 
 const table=document.getElementById("stockTable");
 
