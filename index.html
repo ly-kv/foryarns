@@ -162,7 +162,6 @@ background:#1f57c9;
 <div id="stockPage" class="hidden">
 
 <h2 id="productTitle"></h2>
-<p id="updateDate" style="font-size:13px;color:#666;margin-top:-10px;"></p>
 
 <table id="stockTable">
 
@@ -270,12 +269,11 @@ rows.forEach(r=>{
 
 const cols=r.split(',').map(c=>c.trim());
 
-sstockData.push({
+stockData.push({
 product:cols[0],
 colorNo:cols[1],
 colorName:cols[2],
-stock:cols[3],
-update:cols[4]
+stock:cols[3]
 });
 
 });
@@ -310,8 +308,6 @@ document.getElementById("productList").style.display="none";
 document.getElementById("stockPage").style.display="block";
 
 document.getElementById("productTitle").innerText=name;
-  const update=stockData.find(d=>d.product===name)?.update || "";
-document.getElementById("updateDate").innerText="업데이트: "+update;
 
 const table=document.getElementById("stockTable");
 
