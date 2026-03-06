@@ -275,6 +275,7 @@ product:cols[0],
 colorNo:cols[1],
 colorName:cols[2],
 stock:cols[3]
+update:cols[4]
 });
 
 });
@@ -309,8 +310,8 @@ document.getElementById("productList").style.display="none";
 document.getElementById("stockPage").style.display="block";
 
 document.getElementById("productTitle").innerText=name;
-  const updateDate=stockData.find(d=>d.product===name)?.update || "";
-document.getElementById("updateDate").innerText="업데이트: "+updateDate;
+  const updateDate=stockData.find(d=>d.product===name)?.update;
+document.getElementById("productTitle").innerText=name+" (업데이트: "+updateDate+")";
 
 const table=document.getElementById("stockTable");
 
