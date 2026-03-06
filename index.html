@@ -149,7 +149,9 @@ background:#1f57c9;
 
 <h2>상품 선택</h2>
 
-<div id="stockMenu" class="hidden">
+<div id="productList"></div>
+
+<div id="stockPage" class="hidden">
 
 <h2>상품 선택</h2>
 
@@ -183,83 +185,7 @@ background:#1f57c9;
 </div>
 
 
-<!-- 상품 A 재고 -->
 
-<div id="product1" class="hidden">
-
-<h2>상품 A 재고</h2>
-
-<table>
-
-<tr>
-<th>품명</th>
-<th>색상번호</th>
-<th>색상명</th>
-<th>재고상태</th>
-</tr>
-
-<tr>
-<td>상품A</td>
-<td>01</td>
-<td>화이트</td>
-<td>🟢</td>
-</tr>
-
-<tr>
-<td>상품A</td>
-<td>02</td>
-<td>블랙</td>
-<td>❌</td>
-</tr>
-
-<tr>
-<td>상품A</td>
-<td>03</td>
-<td>레드</td>
-<td>🔵</td>
-</tr>
-
-</table>
-
-<div class="back" onclick="showPage('stockMenu')">← 상품목록</div>
-
-</div>
-
-
-<!-- 상품 B 재고 -->
-
-<div id="product2" class="hidden">
-
-<h2>상품 B 재고</h2>
-
-<table>
-
-<tr>
-<th>품명</th>
-<th>색상번호</th>
-<th>색상명</th>
-<th>재고상태</th>
-</tr>
-
-<tr>
-<td>상품B</td>
-<td>10</td>
-<td>베이지</td>
-<td>🟠</td>
-</tr>
-
-<tr>
-<td>상품B</td>
-<td>11</td>
-<td>그레이</td>
-<td>🔴</td>
-</tr>
-
-</table>
-
-<div class="back" onclick="showPage('stockMenu')">← 상품목록</div>
-
-</div>
 
 
 <script>
@@ -316,9 +242,7 @@ function hideAll(){
 const pages=[
 "mainMenu",
 "stockMenu",
-"wholesaleInfo",
-"product1",
-"product2"
+"wholesaleInfo"
 ];
 
 pages.forEach(p=>{
