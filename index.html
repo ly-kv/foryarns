@@ -341,11 +341,11 @@ fetch('stock.csv')
 .then(res=>res.text())
 .then(text=>{
 
-const rows=text.split('\n').slice(1);
+const rows=text.trim().split('\n').slice(1);
 
 rows.forEach(r=>{
 
-const cols=r.split(',');
+const cols=r.split(',').map(c=>c.trim());
 
 stockData.push({
 product:cols[0],
