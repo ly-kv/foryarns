@@ -1,94 +1,99 @@
-﻿이터니티,1174.0001,petrol/berry/lightblue/lightgreen,🔵
-이터니티,1174.0002,green/periwinkle/pink/hazel,🔵
-이터니티,1174.0003,orange/olive/periwinkle/rust,🔵
-이터니티,1174.0004,periwinkle/blue/berry/olive,🔵
-이터니티,1174.0005,green/olive/loden green/salmon,🔵
-이터니티,1174.0006,purple/pink/lime/emerald,🔵
-이터니티,1174.0007,salmon/red/yellow/blue,🔵
-스윗,1175.0001,white,🟢
-스윗,1175.0004,black,🟢
-스윗,1175.0006,royal,🟢
-스윗,1175.0009,pomegranate,🟢
-스윗,1175.0013,canary,🟢
-스윗,1175.0014,yellow,🟢
-스윗,1175.0015,nougat,🟢
-스윗,1175.0024,grey,🟢
-스윗,1175.0026,beige,🟢
-스윗,1175.0029,melon,🟢
-스윗,1175.0039,camel,🟢
-스윗,1175.0046,lavender,🟢
-스윗,1175.0047,violet,🟢
-스윗,1175.0058,mint,🟢
-스윗,1175.0059,orange,🟢
-스윗,1175.0060,red,🟢
-스윗,1175.0066,berry,🟢
-스윗,1175.0068,espresso,🟢
-스윗,1175.0073,emerald,🟢
-스윗,1175.0074,jade,🟢
-스윗,1175.0094,offwhite,🔵
-스윗,1175.0096,brown,🟢
-스윗,1175.0106,indigo,🟢
-스윗,1175.0109,OLEANDER,🟢
-스윗,1175.0110,LAGOON,🟢
-스윗,1175.0116,PISTACHIO,🟢
-스윗,1175.0117,ARTICHOKE,🟢
-스윗,1175.0121,LIDO,🟢
-스윗,1175.0145,BOUGAINVILLEA,🟢
-스윗,1175.0159,tangerine,🟢
-코튼 트위드,1178.0001,white,🔵
-코튼 트위드,1178.0003,light grey,🔵
-코튼 트위드,1178.0004,black,🔵
-코튼 트위드,1178.0009,rose,🔵
-코튼 트위드,1178.0011,ochre,🔵
-코튼 트위드,1178.0013,baby yellow,🔵
-코튼 트위드,1178.0016,light green,🔵
-코튼 트위드,1178.0018,dark green,🔵
-코튼 트위드,1178.0025,navy,🔵
-코튼 트위드,1178.0029,melon,🔵
-코튼 트위드,1178.0033,light jeans,🔵
-코튼 트위드,1178.0038,hazelnut,🔵
-코튼 트위드,1178.0044,lime,🔵
-코튼 트위드,1178.0045,mauve,🔵
-코튼 트위드,1178.0048,dusty pink,🔵
-코튼 트위드,1178.0064,bordeaux,🔵
-코튼 트위드,1178.0068,dark brown,🔵
-코튼 트위드,1178.0088,petrol,🔵
-코튼 트위드,1178.0091,pastel green,🔵
-코튼 트위드,1178.0094,offwhite,🔵
-벨,1179.0001,white,🔵
-벨,1179.0002,eggwhite,🔵
-벨,1179.0004,black,🔵
-벨,1179.0008,gray-green,🔵
-벨,1179.0009,rose,🔵
-벨,1179.0013,light yellow,🔵
-벨,1179.0015,copper,🔵
-벨,1179.0016,light green,🔵
-벨,1179.0024,grey,🔵
-벨,1179.0025,navy,🔵
-벨,1179.0027,apricot,🔵
-벨,1179.0028,coral,🔵
-벨,1179.0029,melon,🔵
-벨,1179.0033,light jeans,🔵
-벨,1179.0038,hazelnut,🔵
-벨,1179.0039,camel,🔵
-벨,1179.0045,mauve,🔵
-벨,1179.0046,lavender,🔵
-벨,1179.0068,brown,🔵
-벨,1179.0072,seafoam,🔵
-벨,1179.0073,emerald,🔵
-벨,1179.0074,jade,🔵
-벨,1179.0097,light olive,🔵
-벨,1179.0098,dark olive,🟢
+﻿이터니티,1174.0001(신상),petrol/berry/lightblue/lightgreen,🔵
+이터니티,1174.0002(신상),green/periwinkle/pink/hazel,🔵
+이터니티,1174.0003(신상),orange/olive/periwinkle/rust,🔵
+이터니티,1174.0004(신상),periwinkle/blue/berry/olive,🔵
+이터니티,1174.0005(신상),green/olive/loden green/salmon,🔵
+이터니티,1174.0006(신상),purple/pink/lime/emerald,🔵
+이터니티,1174.0007(신상),salmon/red/yellow/blue,🔵
+스윗,1175.0001(신상),white,🟢
+스윗,1175.0004(신상),black,🟢
+스윗,1175.0006(신상),royal,🟢
+스윗,1175.0009(신상),pomegranate,🟢
+스윗,1175.0013(신상),canary,🟢
+스윗,1175.0014(신상),yellow,🟢
+스윗,1175.0015(신상),nougat,🟢
+스윗,1175.0024(신상),grey,🟢
+스윗,1175.0026(신상),beige,🟢
+스윗,1175.0029(신상),melon,🟢
+스윗,1175.0039(신상),camel,🟢
+스윗,1175.0046(신상),lavender,🟢
+스윗,1175.0047(신상),violet,🟢
+스윗,1175.0058(신상),mint,🟢
+스윗,1175.0059(신상),orange,🟢
+스윗,1175.0060(신상),red,🟢
+스윗,1175.0066(신상),berry,🟢
+스윗,1175.0068(신상),espresso,🟢
+스윗,1175.0073(신상),emerald,🟢
+스윗,1175.0074(신상),jade,🟢
+스윗,1175.0094(신상),offwhite,🔵
+스윗,1175.0096(신상),brown,🟢
+스윗,1175.0106(신상),indigo,🟢
+스윗,1175.0109(신상),OLEANDER,🟢
+스윗,1175.0110(신상),LAGOON,🟢
+스윗,1175.0116(신상),PISTACHIO,🟢
+스윗,1175.0117(신상),ARTICHOKE,🟢
+스윗,1175.0121(신상),LIDO,🟢
+스윗,1175.0145(신상),BOUGAINVILLEA,🟢
+스윗,1175.0159(신상),tangerine,🟢
+코튼 트위드,1178.0001(신상),white,🔵
+코튼 트위드,1178.0003(신상),light grey,🔵
+코튼 트위드,1178.0004(신상),black,🔵
+코튼 트위드,1178.0009(신상),rose,🔵
+코튼 트위드,1178.0011(신상),ochre,🔵
+코튼 트위드,1178.0013(신상),baby yellow,🔵
+코튼 트위드,1178.0016(신상),light green,🔵
+코튼 트위드,1178.0018(신상),dark green,🔵
+코튼 트위드,1178.0025(신상),navy,🔵
+코튼 트위드,1178.0029(신상),melon,🔵
+코튼 트위드,1178.0033(신상),light jeans,🔵
+코튼 트위드,1178.0038(신상),hazelnut,🔵
+코튼 트위드,1178.0044(신상),lime,🔵
+코튼 트위드,1178.0045(신상),mauve,🔵
+코튼 트위드,1178.0048(신상),dusty pink,🔵
+코튼 트위드,1178.0064(신상),bordeaux,🔵
+코튼 트위드,1178.0068(신상),dark brown,🔵
+코튼 트위드,1178.0088(신상),petrol,🔵
+코튼 트위드,1178.0091(신상),pastel green,🔵
+코튼 트위드,1178.0094(신상),offwhite,🔵
+벨,1179.0001(신상),white,🔵
+벨,1179.0002(신상),eggwhite,🔵
+벨,1179.0004(신상),black,🔵
+벨,1179.0008(신상),gray-green,🔵
+벨,1179.0009(신상),rose,🔵
+벨,1179.0013(신상),light yellow,🔵
+벨,1179.0015(신상),copper,🔵
+벨,1179.0016(신상),light green,🔵
+벨,1179.0024(신상),grey,🔵
+벨,1179.0025(신상),navy,🔵
+벨,1179.0027(신상),apricot,🔵
+벨,1179.0028(신상),coral,🔵
+벨,1179.0029(신상),melon,🔵
+벨,1179.0033(신상),light jeans,🔵
+벨,1179.0038(신상),hazelnut,🔵
+벨,1179.0039(신상),camel,🔵
+벨,1179.0045(신상),mauve,🔵
+벨,1179.0046(신상),lavender,🔵
+벨,1179.0068(신상),brown,🔵
+벨,1179.0072(신상),seafoam,🔵
+벨,1179.0073(신상),emerald,🔵
+벨,1179.0074(신상),jade,🔵
+벨,1179.0097(신상),light olive,🔵
+벨,1179.0098(신상),dark olive,🟢
+[신상 패턴북],2091.0002,FAM 288 컬렉션,🔵
+[신상 패턴북],2092.0002,WOOLADDICTS #16,🔵
+[신상 패턴북],2590.0001,푼토 90 코튼 트위드,🔵
+[신상 패턴북],2591.0002,푼토 91 컬러풀,🔵
+[신상 패턴북],2592.0002,푼토 92 베이비 코튼,🔵
 피에스타,1160.0001,aqua/rose/grey/yellow,🟢
 피에스타,1160.0002,light blue/pink/green/orange,🟢
 피에스타,1160.0003,yellow/dark blue/rose/beige,🔵
 피에스타,1160.0004,turquoise/aqua/grey/salmon,🔵
 피에스타,1160.0005,lilac/rose/grey/green,🔴
 피에스타,1160.0006,yellow/copper/grey/aqua,🔵
-피에스타,1160.0007,red/lilac/grey/light green,🟢
-피에스타,1160.0008,green/rose/yellow/grey,🟢
-피에스타,1160.0009,blue/rose/dark grey/purple,🟢
-피에스타,1160.0010,dark green/orange/yellow/rose,🟢
+피에스타,1160.0007(신상),red/lilac/grey/light green,🟢
+피에스타,1160.0008(신상),green/rose/yellow/grey,🟢
+피에스타,1160.0009(신상),blue/rose/dark grey/purple,🟢
+피에스타,1160.0010(신상),dark green/orange/yellow/rose,🟢
 아트시,1140.0001,grey/rose,🔵
 아트시,1140.0002,green/rose,🔴
 아트시,1140.0003,red/blue/yellow,🔵
@@ -140,11 +145,11 @@
 풋프린츠,1115.0014,blue/wine/rose,🔵
 풋프린츠,1115.0015,orange/lilac/green,🔵
 풋프린츠,1115.0016,yellow/fire/lilac,🔵
-풋프린츠,1115.0017,berry/green/blue,🔵
-풋프린츠,1115.0018,lilac/berry/blue,🔵
-풋프린츠,1115.0019,blue/beige/jeans,🔵
-풋프린츠,1115.0020,orange/pink/berry,🔵
-풋프린츠,1115.0021,bordeaux/grey/lavender,🔵
+풋프린츠,1115.0017(신상),berry/green/blue,🔵
+풋프린츠,1115.0018(신상),lilac/berry/blue,🔵
+풋프린츠,1115.0019(신상),blue/beige/jeans,🔵
+풋프린츠,1115.0020(신상),orange/pink/berry,🔵
+풋프린츠,1115.0021(신상),bordeaux/grey/lavender,🔵
 노르마,959.0004,black,🟢
 노르마,959.0006,royal,🔴
 노르마,959.0007,light blue,🔴
@@ -210,7 +215,7 @@
 베이비 코튼,112.0033,light jeans,❌
 베이비 코튼,112.0035,blue marine,🔵
 베이비 코튼,112.0044,lime,🟢
-베이비 코튼,112.0045,mauve,🟢
+베이비 코튼,112.0045(신상),mauve,🟢
 베이비 코튼,112.0048,dusky pink,🔵
 베이비 코튼,112.0050,old gold,🔵
 베이비 코튼,112.0058,light mint,🟢
@@ -220,7 +225,7 @@
 베이비 코튼,112.0065,fuchsia,🟢
 베이비 코튼,112.0070,dark grey,🟢
 베이비 코튼,112.0072,emerald,🔵
-베이비 코튼,112.0073,jade,🟢
+베이비 코튼,112.0073(신상),jade,🟢
 베이비 코튼,112.0075,peach,🟢
 베이비 코튼,112.0078,dark turquoise,🔵
 베이비 코튼,112.0079,turquoise,🔵
@@ -229,7 +234,7 @@
 베이비 코튼,112.0091,pastel green,🔵
 베이비 코튼,112.0094,offwhite,❌
 베이비 코튼,112.0096,sand,🟢
-베이비 코튼,112.0097,light olive,🟢
+베이비 코튼,112.0097(신상),light olive,🟢
 베이비 코튼,112.0098,olive,🟢
 베이비 코튼,112.0099,mud,🔴
 베이비 코튼,112.0106,dark blue,🔵
@@ -249,13 +254,13 @@
 베이비 코튼,112.0168,dark brown,🟢
 베이비 코튼,112.0174,malachite,🔵
 베이비 코튼,112.0178,turquoise,🟢
-베이비 코튼,112.0198,dark olive,🟢
+베이비 코튼,112.0198(신상),dark olive,🟢
 베이비 코튼,112.0209,dark rose,🟢
 베이비 코튼,112.0214,lemon yellow,🟢
 베이비 코튼,112.0216,apple green,🔵
 베이비 코튼,112.0218,dark green,🟢
 베이비 코튼,112.0226,chocolate cream,🟢
-베이비 코튼,112.0228,dark coral,🟢
+베이비 코튼,112.0228(신상),dark coral,🟢
 베이비 코튼,112.0246,dark lilac,🔵
 베이비 코튼,112.0248,dark dusky pink,🟢
 베이비 코튼,112.0258,pale green,🟢
@@ -273,15 +278,15 @@
 베이비 코튼 컬러,786.0057,rainbow,🟢
 베이비 코튼 컬러,786.0074,atlantic,🔵
 베이비 코튼 컬러,786.0079,turguoise/pink/yellow,🟢
-베이비 코튼 컬러,786.0146,lilac/berry/apricot,🟢
+베이비 코튼 컬러,786.0146(신상),lilac/berry/apricot,🟢
 베이비 코튼 컬러,786.0151,light blue/mustard yellow/rose,🔵
 베이비 코튼 컬러,786.0152,green/yeelow/brown,🔵
 베이비 코튼 컬러,786.0153,rose/mint/orange,🔵
 베이비 코튼 컬러,786.0154,blue/orange/rose,🔵
-베이비 코튼 컬러,786.0162,burgundy/apricot/brown,🟢
+베이비 코튼 컬러,786.0162(신상),burgundy/apricot/brown,🟢
 베이비 코튼 컬러,786.0165,fuchsia/red/rose,🔵
-베이비 코튼 컬러,786.0179,turquoise/purple/green,🟢
-베이비 코튼 컬러,786.0197,olive/orange/light blue,🟢
+베이비 코튼 컬러,786.0179(신상),turquoise/purple/green,🟢
+베이비 코튼 컬러,786.0197(신상),olive/orange/light blue,🟢
 베이비 코튼 컬러,786.0206,blue/light blue,🔴
 베이비 코튼 컬러,786.0213,yellow/lilac/turquoise,🟢
 베이비 코튼 내추럴 컬러,1157.0001,ivory,🔵
@@ -319,7 +324,7 @@
 콰트로,16.0035,blue marine,🟢
 콰트로,16.0039,light brown,🟢
 콰트로,16.0044,lime,🟢
-콰트로,16.0045,mauve,🟢
+콰트로,16.0045(신상),mauve,🟢
 콰트로,16.0046,lilac,🟢
 콰트로,16.0048,dusky pink,🔵
 콰트로,16.0049,gold yellow,🔵
@@ -359,7 +364,7 @@
 콰트로,16.0118,green,❌
 콰트로,16.0119,orchid,🟢
 콰트로,16.0121,azure,🟢
-콰트로,16.0126,sand,🟢
+콰트로,16.0126(신상),sand,🟢
 콰트로,16.0127,apricot,🔵
 콰트로,16.0129,flamingo,🔵
 콰트로,16.0139,camel,🔴
@@ -389,29 +394,29 @@
 콰트로,16.0318,fir,🔵
 콰트로,16.0418,bottle green,🟢
 콰트로 라메,1112.0001,white,🟢
-콰트로 라메,1112.0002,cream,🟢
-콰트로 라메,1112.0004,black,🟢
+콰트로 라메,1112.0002(신상),cream,🟢
+콰트로 라메,1112.0004(신상),black,🟢
 콰트로 라메,1112.0007,lilac,🔴
-콰트로 라메,1112.0010,lapislazuli,🟢
+콰트로 라메,1112.0010(신상),lapislazuli,🟢
 콰트로 라메,1112.0011,bronze,🟢
-콰트로 라메,1112.0012,light yellow,🟢
+콰트로 라메,1112.0012(신상),light yellow,🟢
 콰트로 라메,1112.0013,yellow,🟢
 콰트로 라메,1112.0016,light green,🟢
 콰트로 라메,1112.0017,green,🔵
 콰트로 라메,1112.0021,light blue,🔵
-콰트로 라메,1112.0024,grey,🟢
+콰트로 라메,1112.0024(신상),grey,🟢
 콰트로 라메,1112.0027,apricot,🔵
-콰트로 라메,1112.0028,salmon,🟢
+콰트로 라메,1112.0028(신상),salmon,🟢
 콰트로 라메,1112.0029,melon,🔵
-콰트로 라메,1112.0035,blue marine,🟢
+콰트로 라메,1112.0035(신상),blue marine,🟢
 콰트로 라메,1112.0061,tomato,🔵
-콰트로 라메,1112.0062,wine red,🟢
+콰트로 라메,1112.0062(신상),wine red,🟢
 콰트로 라메,1112.0065,pink,🟢
-콰트로 라메,1112.0068,dark brown,🟢
-콰트로 라메,1112.0075,brown-orange,🟢
-콰트로 라메,1112.0076,terracotta,🟢
+콰트로 라메,1112.0068(신상),dark brown,🟢
+콰트로 라메,1112.0075(신상),brown-orange,🟢
+콰트로 라메,1112.0076(신상),terracotta,🟢
 콰트로 라메,1112.0079,turquoise,🟢
-콰트로 라메,1112.0093,ivy,🟢
+콰트로 라메,1112.0093(신상),ivy,🟢
 콰트로 라메,1112.0146,middle lilac,🔵
 오르티카,1133.0001,white,🔵
 오르티카,1133.0006,blue,🟢
@@ -446,10 +451,10 @@
 크레아리노,1089.0010,blue,🔵
 크레아리노,1089.0013,pale yellow,🔴
 크레아리노,1089.0015,nougat,🔵
-크레아리노,1089.0016,light green,🟢
+크레아리노,1089.0016(신상),light green,🟢
 크레아리노,1089.0017,green,🔵
 크레아리노,1089.0019,rose,🔵
-크레아리노,1089.0020,light blue,🟢
+크레아리노,1089.0020(신상),light blue,🟢
 크레아리노,1089.0021,sky,🔵
 크레아리노,1089.0022,beige,🟢
 크레아리노,1089.0026,stone,🔵
@@ -463,20 +468,20 @@
 크레아리노,1089.0060,red,🟢
 크레아리노,1089.0062,burgundy,🔵
 크레아리노,1089.0065,fuchsia,🔵
-크레아리노,1089.0073,emerald,🟢
+크레아리노,1089.0073(신상),emerald,🟢
 크레아리노,1089.0074,atlantic,🔵
 크레아리노,1089.0079,turquoise,🟢
 크레아리노,1089.0085,light pink,🔵
 크레아리노,1089.0091,sage méange,🔵
 크레아리노,1089.0094,offwhite,🔵
-크레아리노,1089.0097,light olive,🟢
+크레아리노,1089.0097(신상),light olive,🟢
 크레아리노,1089.0098,olive,🔵
 크레아리노,1089.0104,black/white,🔵
-크레아리노,1089.0115,copper,🟢
+크레아리노,1089.0115(신상),copper,🟢
 크레아리노,1089.0125,navy,🔵
 크레아리노,1089.0128,coral,🔵
-크레아리노,1089.0129,melon,🟢
-크레아리노,1089.0162,burgundy,🟢
+크레아리노,1089.0129(신상),melon,🟢
+크레아리노,1089.0162(신상),burgundy,🟢
 크레아리노,1089.0168,dark brown,🔵
 프라이드,1090.0004,black,🔵
 프라이드,1090.0006,cobalt,🔵
@@ -502,14 +507,14 @@
 프라이드,1090.0092,cactus,🔵
 프라이드,1090.0094,offwhite,🔵
 프라이드,1090.0099,mud,🔵
-프라이드,1090.0109,oleander,🔵
-프라이드,1090.0110,lagoon,🔵
+프라이드,1090.0109(신상),oleander,🔵
+프라이드,1090.0110(신상),lagoon,🔵
 프라이드,1090.0114,daffodil,🔵
-프라이드,1090.0116,pistachio,🔵
-프라이드,1090.0117,artichoke,🔵
+프라이드,1090.0116(신상),pistachio,🔵
+프라이드,1090.0117(신상),artichoke,🔵
 프라이드,1090.0128,oyster,🔵
 프라이드,1090.0129,seastar,🔵
-프라이드,1090.0145,bougainvillea,🔵
+프라이드,1090.0145(신상),bougainvillea,🔵
 프라이드,1090.0158,aventurine,🔵
 프라이드,1090.0179,amazonite,🔵
 리넬로,1066.0017,green,🔵
@@ -527,19 +532,19 @@
 리넬로,1066.0117,green/light blue/mustard yellow,🔵
 리넬로,1066.0213,yellow,🟢
 리넬로,1066.0216,light green,🔴
-리넬로,1066.0222,blue,🔵
+리넬로,1066.0222(신상),blue,🔵
 리넬로,1066.0246,lilac,🔴
-리넬로,1066.0258,mint,🔵
+리넬로,1066.0258(신상),mint,🔵
 리넬로,1066.0259,orange,🔵
 리넬로,1066.0265,pink,🔵
-리넬로,1066.0268,brown,🔵
+리넬로,1066.0268(신상),brown,🔵
 리넬로,1066.0288,petrol,🔵
-리넬로,1066.0301,green/light rose/skyblue,🔵
-리넬로,1066.0302,salmon/orange/turquoise,🔵
-리넬로,1066.0303,eggplant/rose/green,🔵
-리넬로,1066.0304,orange/berry/beige,🔵
-리넬로,1066.0305,emerald/baby blue/green,🔵
-리넬로,1066.0306,indigo/petrol/olive,🔵
+리넬로,1066.0301(신상),green/light rose/skyblue,🔵
+리넬로,1066.0302(신상),salmon/orange/turquoise,🔵
+리넬로,1066.0303(신상),eggplant/rose/green,🔵
+리넬로,1066.0304(신상),orange/berry/beige,🔵
+리넬로,1066.0305(신상),emerald/baby blue/green,🔵
+리넬로,1066.0306(신상),indigo/petrol/olive,🔵
 리노,784.0001,white,🟢
 리노,784.0004,black,🔵
 리노,784.0010,steel,🟢
@@ -587,7 +592,7 @@
 아나나스,1159.0018,dark green,🟢
 아나나스,1159.0019,rosé,🔵
 아나나스,1159.0020,light blue,🟢
-아나나스,1159.0025,navy,🔵
+아나나스,1159.0025(신상),navy,🔵
 아나나스,1159.0027,apricot,🔵
 아나나스,1159.0028,salmon,🟢
 아나나스,1159.0046,lilac,🔵
@@ -598,7 +603,7 @@
 아나나스,1159.0061,tomato,🟢
 아나나스,1159.0065,pink,🔵
 아나나스,1159.0068,brown,🔵
-아나나스,1159.0073,jade,🔵
+아나나스,1159.0073(신상),jade,🔵
 아나나스,1159.0076,terracotta,🔵
 아나나스,1159.0077,curry,🟢
 아나나스,1159.0078,turquoise,🔵
@@ -611,13 +616,13 @@
 일루젼,1155.0005,brown/light blue/light yellow,🔵
 일루젼,1155.0006,blue/grey/beige,🟢
 일루젼,1155.0007,olive/yellow/brown/orange,🟢
-일루젼,1155.0008,brown/cloud/yellow/pink,🟢
-일루젼,1155.0009,blue/brown/grey/seafoam,🟢
-일루젼,1155.0010,green/rose/blue/lavender,🟢
-일루젼,1155.0011,salmon/orange/aqua/offwhite,🟢
+일루젼,1155.0008(신상),brown/cloud/yellow/pink,🟢
+일루젼,1155.0009(신상),blue/brown/grey/seafoam,🟢
+일루젼,1155.0010(신상),green/rose/blue/lavender,🟢
+일루젼,1155.0011(신상),salmon/orange/aqua/offwhite,🟢
 팔리에떼,39.0001,white/silver,🟢
 팔리에떼,39.0002,white/gold,🟢
-팔리에떼,39.0003,grey/gold,#DIV/0!
+팔리에떼,39.0003,grey/gold,🔵
 팔리에떼,39.0004,black/silver,🟢
 팔리에떼,39.0023,silver,🟢
 팔리에떼,39.0024,light grey,🟢
@@ -625,11 +630,10 @@
 [주문제]팔리에떼,39.0047,purple,🔴
 [주문제]팔리에떼,39.0070,anthracite/gold,🔴
 팔리에떼,39.0101,white/multicolour,🔴
-팔리에떼,39.0104,black,🔵
-아스트라,1150.0022,blue,❌
-아스트라,1150.0023,silver,#DIV/0!
-아스트라,1150.0047,lavender,#DIV/0!
-아스트라,1150.0050,gold,#DIV/0!
+팔리에떼,39.0104,black,🔴
+아스트라,1150.0023,silver,🔴
+아스트라,1150.0047,lavender,🔴
+아스트라,1150.0050,gold,🟢
 야크,1103.0003,light grey mélange,🔵
 야크,1103.0005,dark grey mélange,🔵
 야크,1103.0006,blue,🔵
@@ -657,12 +661,12 @@
 야크,1103.0104,black,🔴
 야크,1103.0199,armygreen mélange,🔵
 바야,1135.0004,black,🔵
-바야,1135.0008,greygreen,🟢
+바야,1135.0008(신상),greygreen,🟢
 바야,1135.0013,light yellow,🔵
-바야,1135.0015,nougat,🟢
-바야,1135.0016,light green,🟢
+바야,1135.0015(신상),nougat,🟢
+바야,1135.0016(신상),light green,🟢
 바야,1135.0019,rose,🔵
-바야,1135.0020,light blue,🟢
+바야,1135.0020(신상),light blue,🟢
 바야,1135.0021,sky,🔵
 바야,1135.0023,silver,🔵
 바야,1135.0025,navy,🟢
@@ -670,10 +674,10 @@
 바야,1135.0027,apricot,🔵
 바야,1135.0028,peach,🔵
 바야,1135.0046,lilac,🔵
-바야,1135.0047,lavender,🟢
+바야,1135.0047(신상),lavender,🟢
 바야,1135.0050,mustard yellow,🔵
-바야,1135.0058,mint,🟢
-바야,1135.0062,wine red,🟢
+바야,1135.0058(신상),mint,🟢
+바야,1135.0062(신상),wine red,🟢
 바야,1135.0065,pink,🔵
 바야,1135.0068,brown,🔵
 바야,1135.0073,emerald,🔵
@@ -681,7 +685,7 @@
 바야,1135.0090,plum,🟢
 바야,1135.0093,ivy,🔵
 바야,1135.0094,offwhite,🟢
-바야,1135.0097,light olive,❌
+바야,1135.0097(신상),light olive,❌
 바야,1135.0098,forest green,🔵
 바야,1135.0187,brick,🟢
 노마드,1166.0004,black,🟢
